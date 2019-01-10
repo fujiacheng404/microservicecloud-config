@@ -34,7 +34,7 @@ eureka:
     prefer-ip-address: true 
   client:
     service-url:
-      defaultZone: htpp://eureka7001.com:7001/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/
 
 info:
   app.name: atguigu-microservicecloud
@@ -73,7 +73,7 @@ eureka:
     prefer-ip-address: true 
   client:
     service-url:
-      defaultZone: htpp://eureka7001.com:7001/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/
 
 info:
   app.name: atguigu-microservicecloud
